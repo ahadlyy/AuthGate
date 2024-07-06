@@ -65,7 +65,7 @@ API Documentation:-
 POST /api/auth/register: Register a new tenant.
 POST /api/auth/login: Authenticate a user.
 GET /api/auth/callback: Handle OAuth callback.
-Refer to the API Documentation for detailed endpoint information.
+the API Documentation for detailed endpoint information ----> (https://drive.google.com/file/d/1hVKlgXfISWvYRtJd2KcT19fEKES4FZxc/view?usp=sharing).
 -------------------------------------------------------------------------------------------------------------------------------
 Contribution:-
 --------------------
